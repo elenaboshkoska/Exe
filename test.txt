@@ -4,7 +4,7 @@ sda
 dsa
 asd
 a
-konflikt
+конфликт
 das
 da
 sad
