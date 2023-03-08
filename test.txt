@@ -4,7 +4,7 @@ sda
 dsa
 asd
 a
-kkonflikt
+konflikt
 das
 da
 sad
